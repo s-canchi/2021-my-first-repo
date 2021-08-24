@@ -5,5 +5,5 @@ Hello git!
 
 This workshop is exciting
 
-This line was added on GitHub
+This line was added on GitHub. And here's a bit more
 
